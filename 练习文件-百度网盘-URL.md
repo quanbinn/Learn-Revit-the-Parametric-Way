@@ -19,7 +19,7 @@
 - 房间填色--需要参数化考虑。。。。
 
 # 理解参数 #
-- [办公楼的体量](http://pan.baidu.com/s/1ntkUv4t)
+- [办公楼的体量](http://pan.baidu.com/s/1oEMN8)
 - box数据-建筑房间
 - box数据-建筑空间
 - box数据-建筑体量研究Box
