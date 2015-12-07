@@ -1,0 +1,12 @@
+工具选择：
+
+1.windows自带的截屏工具 -> 生成png图片
+2.qq截图 -> 生成png图片
+3.Prt sc 键 -> photoshop剪辑，生成png图片
+
+总结：
+三种方法生成的图片质量差不多。
+
+使用范围：
+1.基本上使用qq截图
+2.在一些revit功能popup键，使用Prt sc键，然后再photoshop剪辑，生成png图片。
