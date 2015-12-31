@@ -77,19 +77,19 @@
 - [多-水平轮廓-loft](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A08-%E8%87%AA%E9%80%82%E5%BA%94%E6%9E%84%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8/%E7%BB%83%E4%B9%A01-%E5%A4%9A-%E6%B0%B4%E5%B9%B3%E8%BD%AE%E5%BB%93-loft.md)
 - 多-空间轮廓-loft
 - [在面上画四根线-连成面-extrude体](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A08-%E8%87%AA%E9%80%82%E5%BA%94%E6%9E%84%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8/%E7%BB%83%E4%B9%A03-%E5%9C%A8%E9%9D%A2%E4%B8%8A%E7%94%BB%E5%9B%9B%E6%A0%B9%E7%BA%BF-%E8%BF%9E%E6%88%90%E9%9D%A2-extrude%E4%BD%93.md)
-- 鳞片表皮01
-- 鳞片表皮02
+- 四点生成面的自适应族
+- 在面上画四根线-连成面-自适应构件
 - 小结
 
 # 自适应构件的高级应用 #
 - 学习目标
-- 多点控制
-- 曲面开洞-加底板-1点干扰
-- 曲面开洞-加底板-2点干扰
+- 1个可变参量控制其它参量的自适应族
+- 1个可变参量控制其它参量的自适应族-生成曲面外墙的构件
+- 2个可变参量控制其它参量的自适应族
+- 2个可变参量控制其它参量的自适应族-生成曲面外墙的构件
+- 3个可变参量控制其它参量的自适应族
+- 3个可变参量控制其它参量的自适应族--生成曲面外墙的构件
 - [旋转角度控制](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A09-%E8%87%AA%E9%80%82%E5%BA%94%E6%9E%84%E4%BB%B6%E7%9A%84%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/%E7%BB%83%E4%B9%A03-%E6%97%8B%E8%BD%AC%E8%A7%92%E5%BA%A6%E6%8E%A7%E5%88%B6.md)
-- 曲线小路-自适应族
-- 自由形广场
-- flying panel-构件随机
 - 小结
 
 # 下一步的建议 #
