@@ -4,6 +4,8 @@
 
 # 练习视频见网易云课堂：[用参数的方法学习BIM软件Revit](http://study.163.com/course/courseMain.htm?courseId=1443006) #
 
+# [用参数的方法学习Revit-练习文件汇总](http://pan.baidu.com/s/1sksRZCp) #
+
 # 学习前的准备 #
 - [前言](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A01-%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87/0-%E5%89%8D%E8%A8%80.md)
 - [学习目标](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A01-%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87/1.%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87.md)
