@@ -1,13 +1,13 @@
-# [用参数的方法学习Revit-练习文件汇总](http://pan.baidu.com/s/1pJ1LiT9) #
+# [用参数的方法学习Revit-练习文件汇总](http://pan.baidu.com/s/1sksRZCp) #
 
 
 # 用参数的方法使用Revit的基础命令 #
-- [两道墙的相对位置](http://pan.baidu.com/s/1kTnGmd5)
-- [公寓楼的相对间距](http://pan.baidu.com/s/1qWurF32)
-- [控制视图](http://pan.baidu.com/s/1o6uvHP4)
-- [MVC模式](http://pan.baidu.com/s/1ntkUv4t)
-- [标高的参数控制](http://pan.baidu.com/s/1dD53RKP)
-- [选中体量面生成墙体-修改墙的参量](http://pan.baidu.com/s/1AZEgA)
+- [两道墙的相对位置](http://pan.baidu.com/s/1eQOgug6)
+- [公寓楼的相对间距](http://pan.baidu.com/s/1dEpSHFV)
+- [控制视图](http://pan.baidu.com/s/1geiwZdx)
+- [MVC模式](http://pan.baidu.com/s/1pJPPRQj)
+- [标高的参数控制](http://pan.baidu.com/s/1i3YP6tv)
+- [选中体量面生成墙体-修改墙的参量](http://pan.baidu.com/s/1o6TpHcm)
 
 # 用参数的方法使用Revit的高级命令 #
 - 建筑模型数据的修改-体现在平立剖透视中
