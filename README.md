@@ -56,13 +56,13 @@
 
 # Revit使用的核心方法-拼装N个模块 #
 - 学习目标
-- 城市规划-数据输出
-- 住宅-概念box
-- mixuse-概念box
+- 使用回形规划的高新科技园
+- 住宅概念设计的box
+- [混合使用概念设计的box](/chapters/章6-Revit使用的核心方法-拼装N个模块/练习4-哈佛作业-集合住宅.md)
 - [哈佛作业-集合住宅](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A06-Revit%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A0%B8%E5%BF%83%E6%96%B9%E6%B3%95-%E6%8B%BC%E8%A3%85N%E4%B8%AA%E6%A8%A1%E5%9D%97/%E7%BB%83%E4%B9%A04-%E5%93%88%E4%BD%9B%E4%BD%9C%E4%B8%9A-%E9%9B%86%E5%90%88%E4%BD%8F%E5%AE%85.md)
-- 景观-采用韩国竞赛项目
-- 城市设计-链接-大文件
-- 链接-项目文件-沧州项目
+- 运动公园及景观
+- 城市设计中链接的文件
+- 建筑设计中链接的文件
 - 小结
 
 # Revit使用的核心方法-处处是参数 #
