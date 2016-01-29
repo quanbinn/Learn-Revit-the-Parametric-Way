@@ -2,65 +2,58 @@
 
 
 # 用参数的方法使用Revit的基础命令 #
-- [两道墙的相对位置](http://pan.baidu.com/s/1eQOgug6)
-- [公寓楼的相对间距](http://pan.baidu.com/s/1dEpSHFV)
-- [控制视图](http://pan.baidu.com/s/1geiwZdx)
-- [MVC模式](http://pan.baidu.com/s/1pJPPRQj)
-- [标高的参数控制](http://pan.baidu.com/s/1i3YP6tv)
-- [选中体量面生成墙体-修改墙的参量](http://pan.baidu.com/s/1o6TpHcm)
+- [两道墙的相对位置](http://pan.baidu.com/s/1dElp7ot)
+- [公寓楼的相对间距](http://pan.baidu.com/s/1o7jBt3s)
+- [控制视图](http://pan.baidu.com/s/1kTYSgHx)
+- [MVC模式](http://pan.baidu.com/s/1jHu8Mfs)
+- [标高的参数控制](http://pan.baidu.com/s/1bbSqpK)
 
 # 用参数的方法使用Revit的高级命令 #
-- 建筑模型数据的修改-体现在平立剖透视中
-- 图纸排版
-- 墙体的多层参量
-- 大样的参量表示
-- 渲染参量介绍
-- 渲染材质-参量
-- 房间填色--需要参数化考虑。。。。
+- [选中体量面生成墙体-修改墙的参量](http://pan.baidu.com/s/1bov3apD)
+- [建筑模型数据的修改-体现在平立剖透视中](http://pan.baidu.com/s/1jGZAdMm)
+- [图纸排版](http://pan.baidu.com/s/1c1uLcAk)
+- [墙体的多层参量](http://pan.baidu.com/s/1qXknqyw)
+- [多-水平轮廓-loft](http://pan.baidu.com/s/1eQMlhFO)
+- [多-空间轮廓-loft](http://pan.baidu.com/s/1dDMneCx)
 
 # 理解参数 #
-- [办公楼的体量](http://pan.baidu.com/s/1oEMN8)
-- [box数据-建筑房间](http://pan.baidu.com/s/1bn8VKsR)
-- [box数据-建筑空间](http://pan.baidu.com/s/1sIHMe)
-- [box数据-建筑体量研究Box](http://pan.baidu.com/s/1o689vcA)
-- [box数据-楼房体量研究-修改参量](http://pan.baidu.com/s/1dD31Y5j)
-- [尺寸标注取得变量命名权-设定变量名-确定变量值](http://pan.baidu.com/s/1gdClySj)
+- [办公楼的体量](http://pan.baidu.com/s/1kUs4RPX)
+- [box数据-建筑房间](http://pan.baidu.com/s/1pJRs2EZ)
+- [box数据-建筑空间](http://pan.baidu.com/s/1dDYyyDN)
+- [box数据-模型块商铺](http://pan.baidu.com/s/1qXoWVwg)
+- [box数据-楼房体量研究-修改参量](http://pan.baidu.com/s/1o6YLY9G)
+- [尺寸标注取得变量命名权-设定变量名-确定变量值](http://pan.baidu.com/s/1mgPwHwG)
 
 # 理解数据输出 #
-- [规划策划-各种计算值-输出方式-字节等](http://pan.baidu.com/s/1pJDWXnX)
-- [规划策划-数据标志](http://pan.baidu.com/s/1kTw4itp)
+- [规划策划-各种计算值-输出方式-字节等](http://pan.baidu.com/s/1jHcrXie)
+- [规划策划-数据标志](http://pan.baidu.com/s/1mhaRUwo)
 
 # Revit使用的核心方法-拼装N个模块 #
-- 城市规划-数据输出
-- 住宅-概念box
-- mixuse-概念box
-- [哈佛作业-集合住宅](http://pan.baidu.com/s/1qWMIzZe)
-- 景观-采用韩国竞赛项目
-- 城市设计-链接-大文件
-- 链接-项目文件-沧州项目
+- [使用回形规划的高新科技园](http://pan.baidu.com/s/1i4hd9Sp)
+- [住宅概念设计的box](http://pan.baidu.com/s/1pKchJpp)
+- [混合使用概念设计的box](http://pan.baidu.com/s/1bnRGQ0v)
+- [哈佛作业-集合住宅](http://pan.baidu.com/s/1eRhjD6M)
+- [运动公园及景观](http://pan.baidu.com/s/1bujkYi)
+- [城市设计中链接的文件](http://pan.baidu.com/s/1pKePBSn)
+- [建筑设计中链接的文件](http://pan.baidu.com/s/1jGYUhHc)
 
 # Revit使用的核心方法-处处是参数 #
-- 场地分析规范约束
-- 建筑-环境-规范约束
-- 建筑-外出口-规范约束
-- 建筑-室内-规范约束
-- 人流流线数量分析
+- [场地分析的规范约束](http://pan.baidu.com/s/1sk7lPoT)
+- [人流流线的数量分析](http://pan.baidu.com/s/1dEbgkXN)
 
 # 自适应构件的基础应用 #
-- [多-水平轮廓-loft](http://pan.baidu.com/s/1eQxuu1W)
-- 多-空间轮廓-loft
-- [在面上画四根线-连成面-extrude体](http://pan.baidu.com/s/1sjHWDUd)
-- 鳞片表皮01
-- 鳞片表皮02
+- [在面上画四根线-连成面-extrude体](http://pan.baidu.com/s/1ntPuC2l)
+- [四点生成面的自适应族](http://pan.baidu.com/s/1bnMrhd9)
+- [在面上画四根线-连成面-自适应构件](http://pan.baidu.com/s/1Pbbvo)
 
 # 自适应构件的高级应用 #
-- 多点控制
-- 曲面开洞-加底板-1点干扰
-- 曲面开洞-加底板-2点干扰
-- [旋转角度控制-应用于房间或住宅的旋转中](http://pan.baidu.com/s/1pJIaJGZ)
-- 曲线小路-自适应族
-- 自由形广场
-- flying panel-构件随机
+- [1个可变参量控制其它参量的自适应族](http://pan.baidu.com/s/1mhgrERm)
+- [1个可变参量控制其它参量的自适应族-生成曲面外墙的构件](http://pan.baidu.com/s/1c1uLdfE)
+- [2个可变参量控制其它参量的自适应族](http://pan.baidu.com/s/1jGOeRsi)
+- [2个可变参量控制其它参量的自适应族-生成曲面外墙的构件](http://pan.baidu.com/s/1qXqYRkK)
+- [3个可变参量控制其它参量的自适应族](http://pan.baidu.com/s/1kUlJubd)
+- [3个可变参量控制其它参量的自适应族--生成曲面外墙的构件](http://pan.baidu.com/s/1ntUKrdJ)
+- [旋转角度控制-应用于房间或住宅的旋转中](http://pan.baidu.com/s/1mhgX1zE)
 
 
 
