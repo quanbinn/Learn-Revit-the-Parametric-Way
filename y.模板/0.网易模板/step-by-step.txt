@@ -1,0 +1,6 @@
+1.create "Á·Ï°n-name.md"ÔÚfolder:link-of-url
+md: [Á·Ï°n-name](url)
+
+2.save as html folder: html
+
+3.open the html in chrome browser and print as *.pdf folder: pdf
