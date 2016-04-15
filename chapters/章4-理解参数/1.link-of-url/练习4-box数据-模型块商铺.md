@@ -1,1 +1,0 @@
-[练习4-box数据-模型块商铺](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A04-%E7%90%86%E8%A7%A3%E5%8F%82%E6%95%B0/%E7%BB%83%E4%B9%A04-box%E6%95%B0%E6%8D%AE-%E6%A8%A1%E5%9E%8B%E5%9D%97%E5%95%86%E9%93%BA.md)

@@ -1,1 +1,0 @@
-[练习4-MVC模式](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A02-%E7%94%A8%E5%8F%82%E6%95%B0%E7%9A%84%E6%96%B9%E6%B3%95%E4%BD%BF%E7%94%A8Revit%E7%9A%84%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/%E7%BB%83%E4%B9%A04-MVC%E6%A8%A1%E5%BC%8F.md)

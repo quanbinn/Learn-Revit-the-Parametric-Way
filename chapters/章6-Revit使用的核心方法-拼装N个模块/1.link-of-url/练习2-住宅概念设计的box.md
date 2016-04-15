@@ -1,1 +1,0 @@
-[练习2-住宅概念设计的box](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A06-Revit%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A0%B8%E5%BF%83%E6%96%B9%E6%B3%95-%E6%8B%BC%E8%A3%85N%E4%B8%AA%E6%A8%A1%E5%9D%97/%E7%BB%83%E4%B9%A02-%E4%BD%8F%E5%AE%85%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E7%9A%84box.md)

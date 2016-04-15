@@ -1,1 +1,0 @@
-[练习3-在面上画四根线-连成面-extrude体](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/chapters/%E7%AB%A08-%E8%87%AA%E9%80%82%E5%BA%94%E6%9E%84%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80%E5%BA%94%E7%94%A8/%E7%BB%83%E4%B9%A01-%E5%9C%A8%E9%9D%A2%E4%B8%8A%E7%94%BB%E5%9B%9B%E6%A0%B9%E7%BA%BF-%E8%BF%9E%E6%88%90%E9%9D%A2-extrude%E4%BD%93.md)
