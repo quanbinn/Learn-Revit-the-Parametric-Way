@@ -113,7 +113,7 @@
 ![](/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg)
 ![](/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg)
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/images/%E6%88%91%E7%9A%84BIM%E5%85%A8%E8%BF%87%E7%A8%8B%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%8B%E8%B7%AF/BIM%E5%85%A8%E8%BF%87%E7%A8%8B%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%80%9F%E6%88%90.jpg" width="75"></a>
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/章节名称1a.png" width="300"></a>
 
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
