@@ -113,7 +113,7 @@
 ![](/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg)
 ![](/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg)
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/章节名称1a.png" width="300"></a>
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width="300"></a>
 
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
