@@ -17,3 +17,6 @@
 - [A312房间常规模型模板](http://pan.baidu.com/s/1boF8KjH)
 - [A313真实房间](http://pan.baidu.com/s/1c2E0Zpm)
 
+- [A212主体](http://pan.baidu.com/s/1hrTBHtU)
+- [A211裙房](http://pan.baidu.com/s/1o8NAe86)
+
