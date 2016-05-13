@@ -106,10 +106,10 @@
 - 可以应用于建筑设计的[几乎所有相关领域](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539066&courseId=1220010)：城市规划，城市设计，建筑设计，室内设计和景观设计。
 - 其它特点：[处处是参数](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1561052&courseId=1220010)，[拼装N个组件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1508062&courseId=1220010)，[积木式的设计手段](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540107&courseId=1220010)，[功能和外表皮分开设计](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540108&courseId=1220010)，[真实的模拟用户使用场景](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1555067&courseId=1220010) ，[快速搭建设计原型](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1559054&courseId=1220010) ，和[只用一个软件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539022&courseId=1220010)。
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/基于Revit的Uuarch设计框架解读.jpg" width="150"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width="150"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg" width="150"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg" width="150"></a>
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/基于Revit的Uuarch设计框架解读.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width=200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg" width="200"></a>
 
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
