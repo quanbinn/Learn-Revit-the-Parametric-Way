@@ -1,4 +1,4 @@
-## 练习视频见：[用参数的方法学习BIM软件Revit](http://study.163.com/course/courseMain.htm?courseId=1443006)
+## 练习视频见：[Revit全过程的参数化建筑设计师](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
 ## 练习文件下载：[练习文件汇总](http://pan.baidu.com/s/1sksRZCp) 
 
