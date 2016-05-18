@@ -171,9 +171,19 @@ Uuarch设计框架已经应用于建筑设计的几乎所有相关领域。例�
 
 
 
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/基于Revit的Uuarch设计框架解读.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width=200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg" width="200"></a>
 
 
 
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 
-
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
