@@ -143,7 +143,7 @@ Uuarch设计框架已经应用于建筑设计的几乎所有相关领域。例�
 ### 设计奖励如下
 
 - 2010-2011 深圳市宝安中心区地域建筑文化研究与建筑风貌设计（国际竞赛第一名中选方案）
-![](/images/Revit全过程的参数化建筑设计师速成/深圳市宝安中心区地域文化研究与建筑风貌设计.png)
+![](/images/Revit全过程的参数化建筑设计师速成/深圳市宝安中心区地域文化研究与建筑风貌设计.jpg)
 备注：美国UUARCH建筑设计事务所，采用Uuarch设计框架，基本上全程使用Revit这一个软件，在评标中，得到了深圳大学林毅教授等专家的认可。最终被选为第一名中选方案。
 
 - 2013 杭州北干山通惠路山口综合改造设计方案（国内竞赛第一名）
@@ -177,6 +177,12 @@ Uuarch设计框架已经应用于建筑设计的几乎所有相关领域。例�
 ![](/images/Revit全过程的参数化建筑设计师速成/guggenheim5.jpg)
 ![](/images/Revit全过程的参数化建筑设计师速成/guggenheim6.jpg)
 ![](/images/Revit全过程的参数化建筑设计师速成/guggenheim7.jpg)
+
+![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果1.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果2.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果3.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果4.jpg)
+
 
 ## 用参数的方法来学Revit的由来的两部分原因
 
