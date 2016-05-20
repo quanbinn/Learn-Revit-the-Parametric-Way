@@ -42,6 +42,8 @@
 
 ## 迫切需要学习的用户
 
+![](/images/Revit全过程的参数化建筑设计师速成/迫切的学习对象.png)
+
 ### 建筑相关专业的学生
 
 - 你自学或者参加了Revit的相关培训，但是**感觉Revit很复杂，难以学会**，但感觉Revit又比较重要，焦急的想学好它。
@@ -249,7 +251,7 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 
 
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
