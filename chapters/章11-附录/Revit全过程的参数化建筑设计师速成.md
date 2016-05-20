@@ -215,6 +215,14 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 [Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
 
+课程3：用Uuarch做Guggenheim-Helsinki
+
+![](/images/Revit全过程的参数化建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg)
+
+课程4：用Uuarch30分钟搭建设计原型
+
+![](/images/Revit全过程的参数化建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg)
+
 网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
 
 ## 常见问题
