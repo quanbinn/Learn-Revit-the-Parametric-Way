@@ -135,11 +135,10 @@
 
 在项目设计中，主持研发了基于Revit的BIM的设计框架Uuarch。其中包含了一系列的项目管理文件，BIM模型和参数化的设计流程。它有着下面的显著特点：
 
-- 在建筑策划，概念设计，方案设计，到施工图设计的各个设计阶段，使数据被依次传递，从而控制建筑的各部分使用功能和总的造价。
-- 有着清晰可控的设计流程：将建筑设计过程拆分成技术准备，建基地-场地分析，策划等7个部分。
-- 这7个部分的每一个分别由N个具体的子设计任务组成。
-- 可以应用于建筑设计的几乎所有相关领域：城市规划，城市设计，建筑设计，室内设计和景观设计。
-- 其它特点：处处是参数，拼装N个组件，积木式的设计手段，功能和外表皮分开设计，真实的模拟用户使用场景 ，快速搭建设计原型 ，和只用一个软件。
+- 在建筑策划，概念设计，方案设计，到施工图设计的各个设计阶段，使[数据被依次传递](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1561053&courseId=1220010)，从而控制建筑的各部分使用功能和总的造价。
+- 有着[清晰可控的设计流程](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1556053&courseId=1220010)：将建筑设计过程拆分成技术准备，建基地-场地分析，策划等7个部分。这7个部分的每一个分别由N个具体的子设计任务组成。
+- 可以应用于建筑设计的[几乎所有相关领域](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539066&courseId=1220010)：城市规划，城市设计，建筑设计，室内设计和景观设计。
+- 其它特点：[处处是参数](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1561052&courseId=1220010)，[拼装N个组件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1508062&courseId=1220010)，[积木式的设计手段](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540107&courseId=1220010)，[功能和外表皮分开设计](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540108&courseId=1220010)，[真实的模拟用户使用场景](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1555067&courseId=1220010) ，[快速搭建设计原型](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1559054&courseId=1220010) ，和[只用一个软件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539022&courseId=1220010)。
 
 ## 设计奖励和其它重要作品
 
