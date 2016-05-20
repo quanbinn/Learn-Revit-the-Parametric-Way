@@ -199,7 +199,7 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 - 同时，这个方法又来源于我在实际工作中的应用，即我在创办公司的过程中，对基本上没有建筑背景的人的培训经验的总结。Revit的参数学习方法，和我自创的“拼装化”的设计方法可以让新手很快的理解建筑设计，并进行复杂的建筑设计工作。
 
-## 我的网络公开的教学资源
+## 我的网络公开的学习资源
 
 下面的这些课程及资料被放置在网易云课堂，百度网盘和编程网站github.com。
 
@@ -213,9 +213,17 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 ![](/images/Revit全过程的参数化建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg)
 
+网络书地址：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
+
 [Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
 
-网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
+
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/基于Revit的Uuarch设计框架解读.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width=200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg" width="200"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg" width="200"></a>
+
+
 
 
 
