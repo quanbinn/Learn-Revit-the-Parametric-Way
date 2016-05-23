@@ -106,10 +106,41 @@
 - 可以应用于建筑设计的[几乎所有相关领域](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539066&courseId=1220010)：城市规划，城市设计，建筑设计，室内设计和景观设计。
 - 其它特点：[处处是参数](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1561052&courseId=1220010)，[拼装N个组件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1508062&courseId=1220010)，[积木式的设计手段](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540107&courseId=1220010)，[功能和外表皮分开设计](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540108&courseId=1220010)，[真实的模拟用户使用场景](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1555067&courseId=1220010) ，[快速搭建设计原型](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1559054&courseId=1220010) ，和[只用一个软件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539022&courseId=1220010)。
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/基于Revit的Uuarch设计框架解读.jpg" width="200"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/BIM全过程建筑设计师速成.jpg" width=200"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch参数化设计流程做Guggenheim-Helsinki.jpg" width="200"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="/images/我的BIM全过程建筑设计师之路/用Uuarch30分钟搭建设计原型.jpg" width="200"></a>
+## 用参数的方法来学Revit的由来的两部分原因
+
+- 首先，关于用参数的方法学习Revit，源于我在2007年春季，在**哈佛设计学院**修的一门课：Parametric Design and Information Models。Information Models的主讲人是Michael Schroeder先生，他有着建筑和编程的双重学术背景。
+
+- 在大约1.5月的课程中，他基本上只给我们讲了**参数和数据输出**的概念。这让我们很不适应，对于习惯了建模型，看到渲染后的建筑师来说，真的很痛苦，大都感觉学不好这个软件。但是正是因为Schroeder先生的这种教学方法，让我深刻理解了Revit作为**参数化软件的内涵**：**参数在哪里**？**如何制定参数**？**数据如何输出**？
+
+- 我说这个例子的意思是：对于一群来自世界各地的，有不同专业背景的，聪明的哈佛学生，在学习Revit的时候都非常的困难，那说明Revit的学习，对于每一个建筑相关的背景的人，都将是一个**比较困难**的事情。
+
+- 同时，这个方法又来源于我在实际工作中的应用，即我在创办公司的过程中，对基本上没有建筑背景的人的培训经验的总结。Revit的参数学习方法，和我自创的“拼装化”的设计方法可以让新手很快的理解建筑设计，并进行复杂的建筑设计工作。
+
+## 我的网络公开的教学资源
+
+下面的这些课程及资料被放置在网易云课堂，百度网盘和编程网站github.com。
+
+课程1：[基于Revit的Uuarch设计框架](http://study.163.com/course/courseMain.htm?courseId=1220010)
+
+<a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程的参数化建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
+
+[uuarch设计框架下载地址](http://pan.baidu.com/s/1ntmR9hR)
+
+课程2：[用参数的方法使用Revit做建筑设计](http://study.163.com/course/courseMain.htm?courseId=1443006)
+
+<a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程的参数化建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
+
+[Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
+
+课程3：用Uuarch做Guggenheim-Helsinki
+
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
+
+课程4：用Uuarch30分钟搭建设计原型
+
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
+
+网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
 
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
 ![](/images/我的BIM全过程建筑设计师之路/章节名称1a.png)
