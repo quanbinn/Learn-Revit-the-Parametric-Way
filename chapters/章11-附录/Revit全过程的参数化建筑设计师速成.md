@@ -190,6 +190,18 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 ![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果3.jpg)
 ![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果4.jpg)
 
+## 参数化的项目示例
+
+![](/images/Revit全过程的参数化建筑设计师速成/BOX研究模型.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成随机2.png)
+![](/images/Revit全过程的参数化建筑设计师速成/随机1.png)
+![](/images/Revit全过程的参数化建筑设计师速成/随机3.png)
+![](/images/Revit全过程的参数化建筑设计师速成/哈佛作业-桥.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/哈佛作业-BIM住宅.png)
+![](/images/Revit全过程的参数化建筑设计师速成/巴拿马城生命博物馆-模拟.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/Atlantic-Yards.jpg)
+![](/images/Revit全过程的参数化建筑设计师速成/日照规划展览馆-3个方案.jpg)
+
 
 ## 用参数的方法来学Revit的由来的两部分原因
 
@@ -252,8 +264,13 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 
 
+
+
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
 ![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+
