@@ -193,7 +193,7 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 ## 参数化的项目示例
 
 ![](/images/Revit全过程的参数化建筑设计师速成/BOX研究模型.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成随机2.png)
+![](/images/Revit全过程的参数化建筑设计师速成/随机2.png)
 ![](/images/Revit全过程的参数化建筑设计师速成/随机1.png)
 ![](/images/Revit全过程的参数化建筑设计师速成/随机3.png)
 ![](/images/Revit全过程的参数化建筑设计师速成/哈佛作业-桥.jpg)
