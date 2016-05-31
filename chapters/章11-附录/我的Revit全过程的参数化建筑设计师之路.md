@@ -106,6 +106,15 @@
 - 可以应用于建筑设计的[几乎所有相关领域](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539066&courseId=1220010)：城市规划，城市设计，建筑设计，室内设计和景观设计。
 - 其它特点：[处处是参数](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1561052&courseId=1220010)，[拼装N个组件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1508062&courseId=1220010)，[积木式的设计手段](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540107&courseId=1220010)，[功能和外表皮分开设计](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1540108&courseId=1220010)，[真实的模拟用户使用场景](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1555067&courseId=1220010) ，[快速搭建设计原型](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1559054&courseId=1220010) ，和[只用一个软件](http://study.163.com/course/courseLearn.htm?courseId=1220010#/learn/video?lessonId=1539022&courseId=1220010)。
 
+## 全过程的说明
+
+全过程指的是建筑设计的各个阶段，即建筑策划阶段，概念设计阶段，方案设计阶段，初步设计阶段和施工图设计阶段。每一个建筑师基本上只使用Revit这一个软件，就能独立完成上面阶段的各项工作。
+
+- 在建筑设计的整个阶段，对于平立剖面的绘制，建筑师使用Revit自有的绘图功能，基本上不使用AutoCAD这个软件。
+- 在概念设计阶段和方案设计阶段，对于方案造型的推敲，建筑师使用Revit自有的体量功能，不使用Sketckup这个软件。
+- 在概念设计阶段和方案设计阶段中，对于曲线等异形形状的模型创建，建筑师使用Revit的自适应构件功能，不使用Rhinoceros 3D这个软件，同时也不使用它的参数化可视化的插件Grasshopper 3D。
+- 对于在建筑场景中建筑构件的渲染，建筑师使用Revit内置的渲染器，不使用3ds Max这个软件。
+
 ## 用参数的方法来学Revit的由来的两部分原因
 
 - 首先，关于用参数的方法学习Revit，源于我在2007年春季，在**哈佛设计学院**修的一门课：Parametric Design and Information Models。Information Models的主讲人是Michael Schroeder先生，他有着建筑和编程的双重学术背景。
