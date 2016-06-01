@@ -1,8 +1,8 @@
-# Revit全过程的参数化建筑设计师速成
+# Revit全过程参数的建筑设计师速成
 
-![](/images/Revit全过程的参数化建筑设计师速成/Revit全过程建筑设计师速成.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/Revit全过程建筑设计师速成.jpg)
 
-![](/images/Revit全过程的参数化建筑设计师速成/口号1.png)
+![](/images/Revit全过程参数的建筑设计师速成/口号1.png)
 
 5周(12次课)掌握Revit+参数化+顶级国际竞赛的核心用法
 
@@ -19,7 +19,7 @@
 
 夏彬
 
-![](/images/Revit全过程的参数化建筑设计师速成/夏彬-个人照片.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/夏彬-个人照片.jpg)
 
 - **清华大学建筑设计院BIM方案设计培训**的负责人。
 - BIM全过程的设计框架Uuarch的作者。
@@ -51,7 +51,7 @@
 
 ## 迫切需要学习的用户
 
-![](/images/Revit全过程的参数化建筑设计师速成/迫切的学习对象.png)
+![](/images/Revit全过程参数的建筑设计师速成/迫切的学习对象.png)
 
 ### 建筑相关专业的学生
 
@@ -84,7 +84,7 @@
 - 网络辅助学习资料
 - Uuarch特点的交互式练习
 
-![](/images/Revit全过程的参数化建筑设计师速成/课程部分1.png)
+![](/images/Revit全过程参数的建筑设计师速成/课程部分1.png)
 
 ### 部分2-用参数的方法学习Revit
 
@@ -97,7 +97,7 @@
 - **自适应构件的基础应用**
 - **自适应构件的高级应用**
 
-![](/images/Revit全过程的参数化建筑设计师速成/课程部分2.png)
+![](/images/Revit全过程参数的建筑设计师速成/课程部分2.png)
 
 ### 部分3-用Uuarch参数化设计流程做Guggenheim Helsinki Design Competition
 
@@ -107,7 +107,7 @@
 - 房间空间族
 - 建筑表皮-材质-渲染-三维构件表达
 
-![](/images/Revit全过程的参数化建筑设计师速成/课程部分3.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/课程部分3.jpg)
 
 ### 部分4-用Uuarch20分钟搭建设计原型
 
@@ -120,7 +120,7 @@
 - 依照表皮生成玻璃幕墙
 - 渲染表皮
 
-![](/images/Revit全过程的参数化建筑设计师速成/课程部分4.png)
+![](/images/Revit全过程参数的建筑设计师速成/课程部分4.png)
 
 ## 学习背景要求
 
@@ -159,57 +159,57 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 ### 设计奖励如下
 
 - 2010-2011 深圳市宝安中心区地域建筑文化研究与建筑风貌设计（**国际竞赛第一名中选方案**）
-![](/images/Revit全过程的参数化建筑设计师速成/深圳市宝安中心区地域文化研究与建筑风貌设计.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/深圳市宝安中心区地域文化研究与建筑风貌设计.jpg)
 注明：美国UUARCH建筑设计事务所，采用Uuarch设计框架，基本上全程使用Revit这一个软件，在评标中，得到了深圳大学林毅教授等专家的认可。最终被选为第一名中选方案。
 
 - 2013 杭州北干山通惠路山口综合改造设计方案（**国内竞赛第一名**）
-![](/images/Revit全过程的参数化建筑设计师速成/杭州北干山通惠路山口综合改造设计方案.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/杭州北干山通惠路山口综合改造设计方案.jpg)
 注明：清华大学建筑设计研究院采用Uuarch设计框架，得到了评审专家的认可，最终被选为第一名中选方案。
 
 ### 其它典型作品
 
 - 2014 芬兰古根海姆赫尔辛基馆国际竞赛
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim.png)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim.png)
 注明：清华大学建筑设计研究院BIM中心，采用Uuarch设计框架，基本上全程使用Revit这一个软件，在一个月的时间里完成了类似盖里建筑风格的成果。
 
 - 2010 美国Fargo市中心都市融合的国际竞赛
-![](/images/Revit全过程的参数化建筑设计师速成/美国Fargo市中心都市融合的国际竞赛.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/美国Fargo市中心都市融合的国际竞赛.jpg)
 注明：美国UUARCH建筑设计事务所设计了带有颜色的独特的外形构件，倾斜的玻璃，墙体，不规则出挑的平台。
 
 - 2011 韩国五松生物谷总体规划国际竞赛
-![](/images/Revit全过程的参数化建筑设计师速成/韩国五松生物谷总体规划国际竞赛.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/韩国五松生物谷总体规划国际竞赛.jpg)
 注明：美国UUARCH建筑设计事务所，采用Uuarch设计框架，基本上全程使用Revit这一个软件。
 
 - 2011 韩国五松生物谷总体规划国际竞赛-景观部分
-![](/images/Revit全过程的参数化建筑设计师速成/韩国五松生物谷总体规划-中央公园.png)
+![](/images/Revit全过程参数的建筑设计师速成/韩国五松生物谷总体规划-中央公园.png)
 注明：美国UUARCH建筑设计事务所，对于其中的中央公园，采用了Uuarch设计框架，基本上全程使用Revit这一个软件。用多个景点模块拼装成最后的景观设计成果。
 
 ## 芬兰古根海姆赫尔辛基馆国际竞赛成果展示
 
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim1.png)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim2.png)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim3.png)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim4.png)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim5.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim6.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim7.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim1.png)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim2.png)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim3.png)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim4.png)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim5.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim6.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim7.jpg)
 
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果1.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果2.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果3.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/guggenheim-成果4.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim-成果1.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim-成果2.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim-成果3.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/guggenheim-成果4.jpg)
 
 ## 参数化的项目示例
 
-![](/images/Revit全过程的参数化建筑设计师速成/BOX研究模型.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/随机2.png)
-![](/images/Revit全过程的参数化建筑设计师速成/随机1.png)
-![](/images/Revit全过程的参数化建筑设计师速成/随机3.png)
-![](/images/Revit全过程的参数化建筑设计师速成/哈佛作业-桥.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/哈佛作业-BIM住宅.png)
-![](/images/Revit全过程的参数化建筑设计师速成/巴拿马城生命博物馆-模拟.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/Atlantic-Yards.jpg)
-![](/images/Revit全过程的参数化建筑设计师速成/日照规划展览馆-3个方案.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/BOX研究模型.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/随机2.png)
+![](/images/Revit全过程参数的建筑设计师速成/随机1.png)
+![](/images/Revit全过程参数的建筑设计师速成/随机3.png)
+![](/images/Revit全过程参数的建筑设计师速成/哈佛作业-桥.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/哈佛作业-BIM住宅.png)
+![](/images/Revit全过程参数的建筑设计师速成/巴拿马城生命博物馆-模拟.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/Atlantic-Yards.jpg)
+![](/images/Revit全过程参数的建筑设计师速成/日照规划展览馆-3个方案.jpg)
 
 
 ## 用参数的方法来学Revit的由来的两部分原因
@@ -228,23 +228,23 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 课程1：[基于Revit的Uuarch设计框架](http://study.163.com/course/courseMain.htm?courseId=1220010)
 
-<a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程的参数化建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
+<a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程参数的建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
 
 [uuarch设计框架下载地址](http://pan.baidu.com/s/1ntmR9hR)
 
 课程2：[用参数的方法使用Revit做建筑设计](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
-<a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程的参数化建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
+<a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程参数的建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
 
 [Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
 
 课程3：用Uuarch做Guggenheim-Helsinki
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
 
 课程4：用Uuarch30分钟搭建设计原型
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
 
 网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
 
@@ -275,11 +275,11 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 
 
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
 
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
-![](/images/Revit全过程的参数化建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
+![](/images/Revit全过程参数的建筑设计师速成/name.jpg | png)
 
