@@ -228,8 +228,6 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 ![](/images/Revit全过程参数的建筑设计师速成/哈佛作业-BIM住宅.png)
 ![](/images/Revit全过程参数的建筑设计师速成/巴拿马城生命博物馆-模拟.jpg)
 ![](/images/Revit全过程参数的建筑设计师速成/Atlantic-Yards.jpg)
-![](/images/Revit全过程参数的建筑设计师速成/日照规划展览馆-3个方案.jpg)
-
 
 ## 我的网络公开的教学资源
 
