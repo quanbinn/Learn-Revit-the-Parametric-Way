@@ -4,14 +4,3 @@
 
 ..课程目的介绍
 
--------------------------------------------------------------------------------------
-
-参数化的解释：
-
-https://knowledge.autodesk.com/support/revit-products/getting-started/caas/CloudHelp/cloudhelp/2014/ENU/Revit/files/GUID-71F2C8EE-2A90-4076-A6C7-702082566DDF-htm.html
-
-https://knowledge.autodesk.com/support/revit-products/getting-started/caas/CloudHelp/cloudhelp/2016/ENU/Revit-GetStarted/files/GUID-71F2C8EE-2A90-4076-A6C7-702082566DDF-htm.html
-
-https://en.wikipedia.org/wiki/Parametric_design
-
-

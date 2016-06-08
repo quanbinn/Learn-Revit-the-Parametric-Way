@@ -4,6 +4,9 @@
 2. 下载这个文件夹。（这时浏览器提示：你需要首先安装百度云管家）。
 3. 下载完成后，在这个文件夹中用鼠标双击"多-水平截面-loft-Begin.rvt"。
 
+芬兰古根海姆赫尔辛基馆国际竞赛
+[Guggenheim Helsinki Design Competition](http://designguggenheimhelsinki.org/)
+
 ![多-水平轮廓-loft0.png](/images/多-水平轮廓-loft/多-水平轮廓-loft0.png)
 
 # 开始做

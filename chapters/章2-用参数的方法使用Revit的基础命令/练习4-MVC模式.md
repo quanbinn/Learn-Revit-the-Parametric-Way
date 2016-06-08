@@ -4,9 +4,9 @@
 2. 下载这个文件夹。（这时浏览器提示：你需要首先安装百度云管家）。
 3. 下载完成后，在这个文件夹中用鼠标双击"Beekman-150m.rvt"。
 
+[Gehry's first skyscraper, the Beekman Tower at 8 Spruce Street (2011)[32] in New York City](http://newyorkbygehry.com/)
+
 ![MVC模式0.png](/images/MVC模式/MVC模式0.png)
-
-
 
 > 注明：这里引入一个计算机领域的概念MVC，即模型（Model），视图（Views），和控制器（Controller）。在Revit中，MVC的定义请见下面的示意：
 > 
