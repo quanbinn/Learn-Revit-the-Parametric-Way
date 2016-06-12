@@ -27,7 +27,7 @@ Revit官方文档里对“[参数化](https://knowledge.autodesk.com/support/rev
 
 注明：因为“参数化”这个词比较抽象，我在一些情况下会用“参数的”来取代它。当你们看到“参数化”这个词出现时，可以把它理解为“参数的”。关于“参数化”这个词的理解，你们在我的练习中会体会这一点。如果你们以后学习编程的话，会深刻的理解这个词的含义。
 
-关于Revit相关的参数话设计，我重点强调以下几点：
+关于Revit相关的参数化设计，我重点强调以下几点：
 
 - Revit和CATIA和Grasshopper 3D 一样，都是参数化的软件，都能够做[参数化设计](https://en.wikipedia.org/wiki/Parametric_design)。
 - 使用Revit这个参数化的软件能够做出CATIA和Grasshopper 3D能做的很多工作。
