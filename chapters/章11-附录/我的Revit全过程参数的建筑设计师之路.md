@@ -129,22 +129,22 @@
 
 课程1：[基于Revit的Uuarch设计框架](http://study.163.com/course/courseMain.htm?courseId=1220010)
 
-<a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程的参数化建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
+<a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程的参数的建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
 
 [uuarch设计框架下载地址](http://pan.baidu.com/s/1ntmR9hR)
 
 课程2：[用参数的方法使用Revit做建筑设计](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
-<a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程的参数化建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
+<a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程的参数的建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
 
 [Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
 
 课程3：用Uuarch做Guggenheim-Helsinki
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数的建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
 
 课程4：用Uuarch30分钟搭建设计原型
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数化建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
+<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程的参数的建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
 
 网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
