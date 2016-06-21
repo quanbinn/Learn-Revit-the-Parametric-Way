@@ -4,9 +4,11 @@
 2. 下载这个文件夹。（这时浏览器提示：你需要首先安装百度云管家）。
 3. 下载完成后，在这个文件夹中用鼠标双击"Beekman-150m.rvt"。
 
-[Gehry's first skyscraper, the Beekman Tower at 8 Spruce Street (2011)[32] in New York City](http://newyorkbygehry.com/)
-
 ![MVC模式0.png](/images/MVC模式/MVC模式0.png)
+
+这个练习文件中的超高层建筑物是对美国纽约曼哈顿的[比克曼大楼(Beekman Tower)](http://newyorkbygehry.com/)的模拟，它是弗兰克-盖里先生在职业生涯中建成的第一个超高层建筑物。我在Revit里粗略的模拟了这个建筑（150米高），它的外表皮全部为异形的玻璃。
+
+这个练习的目的是让大家认识到：对于具有很大数据量的模型，为了不在视图的显示上花很多时间，我们要选用适当的视图模式“隐藏线”和“着色”。
 
 > 注明：这里引入一个计算机领域的概念MVC，即模型（Model），视图（Views），和控制器（Controller）。在Revit中，MVC的定义请见下面的示意：
 > 
