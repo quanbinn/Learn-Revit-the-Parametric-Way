@@ -4,10 +4,13 @@
 2. 下载这个文件夹。（这时浏览器提示：你需要首先安装百度云管家）。
 3. 下载完成后，在这个文件夹中用鼠标双击"多-水平截面-loft-Begin.rvt"。
 
-芬兰古根海姆赫尔辛基馆国际竞赛
-[Guggenheim Helsinki Design Competition](http://designguggenheimhelsinki.org/)
-
 ![多-水平轮廓-loft0.png](/images/多-水平轮廓-loft/多-水平轮廓-loft0.png)
+
+这个练习文件来源于我在2014年在清华大学建筑设计院-BIM技术中心主持的[芬兰古根海姆赫尔辛基馆（Guggenheim Helsinki Design Competition）](http://designguggenheimhelsinki.org/)的国际竞赛的成果。
+
+这个练习文件中的三个砖红色的模型块代表着三个博物馆展室。在标高f1,f2-展厅，f3-展厅和场地上面，在模型块的底面和顶面共有4个围合的四边形。
+
+这个练习的目的是：掌握如何通过使用Loft这个非常常用的曲面生成命令，在选中多个封闭的形状后，创建出一个外表皮。
 
 # 开始做
 
