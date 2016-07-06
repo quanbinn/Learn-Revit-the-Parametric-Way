@@ -2,7 +2,7 @@
 
 1. 单击“[练习4-MVC模式](http://pan.baidu.com/s/1jHu8Mfs)”，在弹出的百度云的网页上会看到“练习4-MVC模式”的文件夹。
 2. 下载这个文件夹。（浏览器会提示安装百度云管家）。
-3. 下载完成后，在这个文件夹中用双击"Beekman-150m.rvt"。
+3. 下载完成后，在这个文件夹中双击"Beekman-150m.rvt"。
 
 ![MVC模式0.png](/images/MVC模式/MVC模式0.png)
 
