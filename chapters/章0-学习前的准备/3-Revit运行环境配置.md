@@ -12,9 +12,4 @@ Windows 7 或 8 或更高版本的64位操作系统。
 
 ## Revit软件获取和安装方法： 
 
-#### 1. 最快的方法：
-
-找你身边的，已经在学习Revit的同学、老师、朋友或同事，请他们吃个饭，帮你装上Revit2014或更新的版本。
-
-#### 2. 官方Revit试用版：
-[下载地址](http://www.autodesk.com.hk/products/autodesk-revit-family/free-trial)
+[官方Revit试用版下载地址](http://www.autodesk.com.hk/products/autodesk-revit-family/free-trial)
