@@ -10,6 +10,6 @@ Windows 7 或 8 或更高版本的64位操作系统。
 
 安装Revit的2014或更新的版本（我的示例视频都是用2014版本录制的）
 
-## Revit软件获取和安装方法： 
+## Revit的获取和安装方法： 
 
 [官方Revit试用版下载地址](http://www.autodesk.com.hk/products/autodesk-revit-family/free-trial)
