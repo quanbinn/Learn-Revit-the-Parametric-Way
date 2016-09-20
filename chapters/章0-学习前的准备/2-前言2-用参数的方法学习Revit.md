@@ -1,3 +1,5 @@
+# 前言2-用参数的方法学习Revit
+
 我构思的这本书最早的名字是：用参数的方法学习Revit。 这个名字的由来有下面的两部分原因：
 
 首先，关于用参数的方法学习Revit，源于2007年春季，我在美国哈佛大学设计学院修的一门课：Parametric Design and [Information Models](http://isites.harvard.edu/icb/icb.do?keyword=k76421)。Information Models的主讲人是[Michael Schroeder](http://www.gsd.harvard.edu/cgi-bin/courses/faculty.cgi?term=201040&person=104227)先生，他有着建筑和编程的双重学术背景。
