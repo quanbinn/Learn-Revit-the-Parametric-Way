@@ -2,37 +2,11 @@
 
 ![](/images/Revit全过程参数的建筑设计师速成/Revit全过程建筑设计师速成.jpg)
 
-![](/images/Revit全过程参数的建筑设计师速成/口号1.png)
+![](/images/Revit全过程参数的建筑设计师速成/9个作业做出你自己的Guggenheim Helsinki国际竞赛成果.png)
 
-4周(10次课)掌握Revit+参数化+顶级国际竞赛的核心用法
+![](/images/Revit全过程参数的建筑设计师速成/4周-8次课.png)
 
-## 全过程的说明
-
-全过程指的是建筑设计的各个阶段，即建筑策划阶段，概念设计阶段，方案设计阶段，初步设计阶段和施工图设计阶段。每一个建筑师基本上只使用Revit这一个软件，就能独立完成上面阶段的各项工作。
-
-![](/images/Revit全过程参数的建筑设计师速成/只用一个软件-Revit.png)
-
-- 在建筑设计的整个阶段，对于平立剖面的绘制，建筑师使用Revit自有的绘图功能，基本上不使用AutoCAD这个软件。
-- 在概念设计阶段和方案设计阶段，对于方案造型的推敲，建筑师使用Revit自有的体量功能，不使用Sketckup这个软件。
-- 在概念设计阶段和方案设计阶段中，对于曲线等异形形状的模型创建，建筑师使用Revit的自适应构件功能，不使用Rhinoceros 3D这个软件，同时也不使用它的参数化可视化的插件Grasshopper 3D。
-- 对于在建筑场景中建筑构件的渲染，建筑师使用Revit内置的渲染器，不使用3ds Max这个软件。
-
-##“参数的”和“参数化的”解释
-
-Revit官方文档里对“[参数化](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/CloudHelp/cloudhelp/2014/ENU/Revit/files/GUID-71F2C8EE-2A90-4076-A6C7-702082566DDF-htm.html)”的解释是：
->
->
-- 术语“参数化”是指模型的所有图元之间的关系，这些关系可实现 Revit 提供的协调和变更管理功能。 这些关系可以由软件自动创建，也可以由设计者在项目开发期间创建。
-- 在数学和机械 CAD 中，定义这些关系的数字或特性称为参数，因此该软件的运行是参数化的。该功能为 Revit 提供了基本的协调能力和生产率优势：无论何时在项目中的任何位置进行任何修改，Revit 都能在整个项目内协调该修改。
-
-注明：因为“参数化”这个词比较抽象，我在一些情况下会用“参数的”来取代它。当你们看到“参数化”这个词出现时，可以把它理解为“参数的”。关于“参数化”这个词的理解，你们在我的练习中会体会这一点。如果你们以后学习编程的话，会深刻的理解这个词的含义。
-
-关于Revit相关的参数化设计，我重点强调以下几点：
-
-- Revit和CATIA和Grasshopper 3D 一样，都是参数化的软件，都能够做[参数化设计](https://en.wikipedia.org/wiki/Parametric_design)。
-- 使用Revit这个参数化的软件能够做出CATIA和Grasshopper 3D能做的很多工作。
-- Revit关于参数化的使用效率，比CATIA和Grasshopper 3D高很多。
-- 我这个课程里的参数化不涉及到有关算法的设计。
+4周(8次课)掌握Revit+参数化+顶级国际竞赛的核心用法
 
 ## 老师介绍
 
@@ -52,17 +26,17 @@ Revit官方文档里对“[参数化](https://knowledge.autodesk.com/support/rev
 
 - 现在，建筑信息模型（BIM）在国内的建筑业已经被大家所了解了，其中Autodesk公司出品的Revit成为了设计公司首选的BIM设计软件。Revit被普遍运用在施工图设计和施工管理阶段，很少被设计师使用在概念方案和方案设计阶段。但是，随着国内各地政府陆续出台了关于**BIM的强制标准**，明确要求对于方案设计和初步设计阶段的设计图纸需要用BIM模型用来报建。例如：**深圳市建筑工务署**规定“**至2017年，实现在其所负责的工程项目建设和管理中全面开展BIM应用，并使市建筑工务署的BIM技术应用达到国内外先进水平。**”。 其中**“BIM 实施管理标准”对方案设计模型和扩初设计模型提出了具体的要求**。这就说明能够在概念方案和方案设计阶段使用Revit，即使用Revit进行全过程的建筑设计变成了一个设计企业和设计师**必须要尽快掌握的技能**。
 
-- 这个BIM全过程建筑设计师的教程包含了一系列的,指导建筑设计师掌握Revit在概念方案和方案设计的应用的交互式教程。教程使用的练习文件全是从实际的国际及国内的竞赛项目，和实际项目中提取出来。通过学习这套交互式的使用教程，你会掌握Revit在实际工程应用中的重要知识点。
+- 这个BIM全过程建筑设计师的教程包含了一系列的,指导建筑设计师掌握Revit在策划前期，规划设计，概念方案设计和方案设计中应用的交互式教程。教程使用的练习文件全是从实际的国际及国内的竞赛项目，和实际项目中提取出来的。通过学习这套交互式的使用教程，你会掌握Revit在实际工程应用中的重要知识点。
 
 ## 你可以学到
 
-在学完这套系列课程后，你将能掌握Revit作为一个参数化软件的核心使用方法；可以将Uuarch设计框架应用于概念方案和方案设计的全过程中。你可以学到：
+在学完这套系列课程后，你将能掌握Revit作为一个参数化软件的核心使用方法；可以将Uuarch设计框架应用于策划前期，规划设计，概念方案设计和方案设计的全过程中；可以通过完成9个作业，做出你自己的Guggenheim Helsinki国际竞赛成果。你可以学到：
 
+- 深刻掌握Uuarch设计框架的设计思想和十个基本特点
 - 用参数的方法使用Revit的基础的和高级的命令
 - 深刻的理解参数和数据输出
 - 深刻的理解Revit使用的核心方法-拼装化和处处是参数
 - 掌握自适应构件的用法
-- 深刻掌握Uuarch设计框架的设计思想和十个基本特点
 - 用Uuarch参数化设计流程做Guggenheim Helsinki Design Competition
 - 采用Uuarch设计框架快速的搭建设计原型
 
@@ -72,70 +46,66 @@ Revit官方文档里对“[参数化](https://knowledge.autodesk.com/support/rev
 
 ### 建筑相关专业的学生
 
-- 你自学或者参加了Revit的相关培训，但是**感觉Revit很复杂，难以学会**，但感觉Revit又比较重要，焦急的想学好它。
-- 你参加了Revit的相关培训，知道了用Revit建墙体，梁板柱，MEP等，**但是不会用Revit做方案设计**。
-- 希望**掌握Revit的参数化的用法**。
 - 对于准备申请到国外读书的学生，需要**制作作品集及掌握参数化的技能**。
-- 对于需要实习的学生，需要**学会Revit后去更好的事务所实习**。
 - 对于即将毕业的学生，需要**学会Revit去找工作**。
+- 对于需要实习的学生，需要**学会Revit后去更好的事务所实习**。
+- 希望**掌握Revit的参数化的用法**。
+- 希望掌握Revit在策划前期，规划设计，概念方案设计和方案设计中的用法。
 
 ### 建筑从业者
 
-- 你自学或者参加了Revit的相关培训，但是**感觉Revit很复杂，难以学会**，但感觉Revit又比较重要，焦急的想学好它。
-- 你参加了Revit的相关培训，知道了用Revit建墙体，梁板柱，MEP等，**但是不会用Revit做方案设计**。
-- 希望**掌握Revit的参数化的用法**。
 - 需要**学会Revit来降低减薪，甚至丢失工作的可能性**。
 - 需要**学会Revit去找新的工作**。
+- 希望**掌握Revit的参数化的用法**。
+- 希望掌握Revit在策划前期，规划设计，概念方案设计和方案设计中的用法。
 
 ## 课程大纲
 
 ### 部分1-基于Revit的Uuarch设计框架解读
 
-- 主要的BIM软件Revit介绍
-- 美国和国内市场BIM需求的介绍
-- Uuarch产生的背景-（**哈佛+盖里+编程+国内外项目实践**）
-- Uuarch的组成部分
-- Uuarch的十个特点
-- 用参数的方法来学Revit的由来
-- BIM方案培训课程介绍
-- 网络辅助学习资料
-- Uuarch特点的交互式练习
-
+- 介绍Uuarch产生的背景, 组成部分和十个特点。
+- 针对其中的四个特点进行交互式的练习。这四个特点分别是：
+  
+	- 积木式的设计手段
+	- 功能和外表皮分开设计
+	- 处处是参数
+ 	- 数据的全过程控制
+  
 ![](/images/Revit全过程参数的建筑设计师速成/课程部分1.png)
 
-### 部分2-用参数的方法学习Revit
+### 部分2-用参数的方法使用Revit做建筑设计
 
-- 用参数的方法使用Revit的基础命令
-- 用参数的方法使用Revit的高级命令
-- **理解参数**
-- **理解数据输出**
-- Revit使用的核心方法-**拼装N个模块**
-- Revit使用的核心方法-**处处是参数**
-- **自适应构件的基础应用**
-- **自适应构件的高级应用**
+- 用参数的方法使用Revit的基础和高级命令
+- 理解Revit使用中的参数和数据输出
+- 理解Revit使用中的两个核心方法：拼装化和处处是参数
+- 掌握自适应构件的原理和高级应用
 
 ![](/images/Revit全过程参数的建筑设计师速成/课程部分2.png)
 
-### 部分3-用Uuarch参数化设计流程做Guggenheim Helsinki Design Competition
+### 部分3-用Uuarch参数的建筑设计流程做Guggenheim Helsinki
+- 以2014年-2015年进行的顶级的[芬兰古根海姆赫尔辛基馆（Guggenheim Helsinki Design Competition）](http://designguggenheimhelsinki.org/)的国际竞赛为例，采用Uuarch的参数化设计流程，设计出一个有着多样的参数化设计手段的博物馆。
+- 具体采用的步骤分别是：
 
-- 建基地-场地分析
-- 策划
-- 功能区摆布
-- 房间空间族
-- 建筑表皮-材质-渲染-三维构件表达
+  1. 建基地-场地分析
+  2. 策划
+  3. 功能区摆布
+  4. 房间空间族
+  5. 建筑表皮-材质-渲染-三维构件表达
 
 ![](/images/Revit全过程参数的建筑设计师速成/课程部分3.jpg)
 
-### 部分4-用Uuarch20分钟搭建设计原型
+### 部分4-用Uuarch30分钟搭建最简设计原型
 
-- 介绍
-- 在创建的标高上确定截面形状
-- 旋转截面
-- 多截面生成表皮形状
-- 修改表皮形状
-- 确定UV数值
-- 依照表皮生成玻璃幕墙
-- 渲染表皮
+- 以模拟上海中心的超高层建筑为例，学习使用Uuarch设计框架在30分钟内搭建最简设计原型。
+- 具体的设计步骤是：
+
+  1. 建立平面参照约束
+  2. 在创建的标高平面上确定截面形状
+  3. 旋转截面
+  4. 多截面生成表皮形状
+  5. 修改表皮形状
+  6. 确定UV数值
+  7. 依照表皮生成玻璃幕墙和渲染表皮
 
 ![](/images/Revit全过程参数的建筑设计师速成/课程部分4.png)
 
@@ -235,21 +205,49 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 [uuarch设计框架下载地址](http://pan.baidu.com/s/1ntmR9hR)
 
-课程2：[用参数的方法使用Revit做建筑设计](http://study.163.com/course/courseMain.htm?courseId=1443006)
+课程2：[Revit全过程建筑设计师](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
 <a href="http://study.163.com/course/courseMain.htm?courseId=1443006"><img src="/images/Revit全过程参数的建筑设计师速成/用参数的方法使用Revit做建筑设计.jpg" width="400"></a>
 
 [Revit全过程的参数化建筑设计师-练习文件汇总](http://pan.baidu.com/s/1sksRZCp)
 
-课程3：用Uuarch做Guggenheim-Helsinki
+课程3：[用Uuarch做Guggenheim-Helsinki](href="http://study.163.com/course/introduction/1003292040.htm#/courseDetail)
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
+<a href="http://study.163.com/course/introduction/1003292040.htm#/courseDetail"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch做Guggenheim-Helsinki.jpg" width="400"></a>
 
-课程4：用Uuarch30分钟搭建设计原型
+课程4：[用Uuarch30分钟搭建最简设计原型](href="http://study.163.com/course/introduction/1003291030.htm#/courseDetail)
 
-<a href="http://study.163.com/u/ykt1431307425393"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
+<a href="http://study.163.com/course/introduction/1003291030.htm#/courseDetail"><img src="/images/Revit全过程参数的建筑设计师速成/用Uuarch30分钟搭建设计原型.jpg" width="400"></a>
 
 网络书：[Revit全过程的参数化建筑设计师](https://github.com/quanbinn/Learn-Revit-the-Parametric-Way/blob/master/README.md)
+
+## 全过程的说明
+
+全过程指的是建筑设计的各个阶段，即建筑策划阶段，概念设计阶段，方案设计阶段，初步设计阶段和施工图设计阶段。每一个建筑师基本上只使用Revit这一个软件，就能独立完成上面阶段的各项工作。
+
+![](/images/Revit全过程参数的建筑设计师速成/只用一个软件-Revit.png)
+
+- 在建筑设计的整个阶段，对于平立剖面的绘制，建筑师使用Revit自有的绘图功能，基本上不使用AutoCAD这个软件。
+- 在概念设计阶段和方案设计阶段，对于方案造型的推敲，建筑师使用Revit自有的体量功能，不使用Sketckup这个软件。
+- 在概念设计阶段和方案设计阶段中，对于曲线等异形形状的模型创建，建筑师使用Revit的自适应构件功能，不使用Rhinoceros 3D这个软件，同时也不使用它的参数化可视化的插件Grasshopper 3D。
+- 对于在建筑场景中建筑构件的渲染，建筑师使用Revit内置的渲染器，不使用3ds Max这个软件。
+
+##“参数的”和“参数化的”解释
+
+Revit官方文档里对“[参数化](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/CloudHelp/cloudhelp/2014/ENU/Revit/files/GUID-71F2C8EE-2A90-4076-A6C7-702082566DDF-htm.html)”的解释是：
+>
+>
+- 术语“参数化”是指模型的所有图元之间的关系，这些关系可实现 Revit 提供的协调和变更管理功能。 这些关系可以由软件自动创建，也可以由设计者在项目开发期间创建。
+- 在数学和机械 CAD 中，定义这些关系的数字或特性称为参数，因此该软件的运行是参数化的。该功能为 Revit 提供了基本的协调能力和生产率优势：无论何时在项目中的任何位置进行任何修改，Revit 都能在整个项目内协调该修改。
+
+注明：因为“参数化”这个词比较抽象，我在一些情况下会用“参数的”来取代它。当你们看到“参数化”这个词出现时，可以把它理解为“参数的”。关于“参数化”这个词的理解，你们在我的练习中会体会这一点。如果你们以后学习编程的话，会深刻的理解这个词的含义。
+
+关于Revit相关的参数化设计，我重点强调以下几点：
+
+- Revit和CATIA和Grasshopper 3D 一样，都是参数化的软件，都能够做[参数化设计](https://en.wikipedia.org/wiki/Parametric_design)。
+- 使用Revit这个参数化的软件能够做出CATIA和Grasshopper 3D能做的很多工作。
+- Revit关于参数化的使用效率，比CATIA和Grasshopper 3D高很多。
+- 我这个课程里的参数化不涉及到有关算法的设计。
 
 ## 常见问题
 
