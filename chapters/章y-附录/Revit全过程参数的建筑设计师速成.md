@@ -4,6 +4,8 @@
 
 ![](/images/Revit全过程参数的建筑设计师速成/9个作业做出你自己的Guggenheim Helsinki国际竞赛成果.png)
 
+9个作业做出你自己的Guggenheim Helsinki国际竞赛成果
+
 ![](/images/Revit全过程参数的建筑设计师速成/4周-8次课.png)
 
 4周(8次课)掌握Revit+参数化+顶级国际竞赛的核心用法
