@@ -2,11 +2,9 @@
 
 《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。
 
-![封面](/images/封面.jpg)
+<a href="http://study.163.com/course/introduction/1443006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
-- [京东](https://item.jd.com/12015975.html)
-- [当当](http://product.dangdang.com/24146790.html)
-- [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
+-  购买链接： [京东](https://item.jd.com/12015975.html) |  [当当](http://product.dangdang.com/24146790.html) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
 
 ## 练习视频见：[Revit全过程的参数化建筑设计师速成](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
