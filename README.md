@@ -1,6 +1,14 @@
-## 练习视频见：[Revit全过程的参数化建筑设计师速成](http://study.163.com/course/courseMain.htm?courseId=1443006)
+# Revit全过程建筑设计师
 
-## 练习文件下载：[练习文件汇总](http://pan.baidu.com/s/1sksRZCp) 
+《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。
+
+![封面](/images/封面.jpg)
+
+- [京东](https://item.jd.com/12015975.html)
+- [当当](http://product.dangdang.com/24146790.html)
+- [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
+
+## 练习视频见：[Revit全过程的参数化建筑设计师速成](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
