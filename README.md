@@ -2,16 +2,16 @@
 
 《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。
 
-<a href="http://study.163.com/course/introduction/1443006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
+<a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
 -  购买链接： [京东](https://item.jd.com/12015975.html) |  [当当](http://product.dangdang.com/24146790.html) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
 
-## 练习视频见：[Revit全过程的参数化建筑设计师速成](http://study.163.com/course/courseMain.htm?courseId=1443006)
+## [网易云课堂 “Revit全过程建筑设计师 [完整视频]”](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
-- [作者简介](/chapters/章0-学习前的准备/0-作者简介.md)
 - [序](/chapters/章0-学习前的准备/01-序.md)
+- [作者简介](/chapters/章0-学习前的准备/0-作者简介.md)
 - [前言1-我的Revit全过程参数的建筑设计师之路](/chapters/章0-学习前的准备/1-前言1-我的Revit全过程参数的建筑设计师之路.md) 
 - [前言2-用参数的方法学习Revit](/chapters/章0-学习前的准备/2-前言2-用参数的方法学习Revit.md)
 - [适用对象-课程结构-学习目标](/chapters/章0-学习前的准备/3.适用对象-课程结构-学习目标.md)
