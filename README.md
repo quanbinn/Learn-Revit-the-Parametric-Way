@@ -6,6 +6,8 @@
 
 -  购买链接： [京东](https://item.jd.com/12015975.html) |  [当当](http://product.dangdang.com/24146790.html) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
 
+## [网易云课堂 “Revit全过程建筑设计师 [免费视频]”](http://study.163.com/course/courseMain.htm?courseId=1443006)
+
 ## [网易云课堂 “Revit全过程建筑设计师 [完整视频]”](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
 ## 学习前的准备
