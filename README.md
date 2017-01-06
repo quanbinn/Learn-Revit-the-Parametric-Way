@@ -1,6 +1,6 @@
 # Revit全过程建筑设计师
 
-《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。
+《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。课程qq群：132407515 （BIM设计框架Uuarch）。
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
