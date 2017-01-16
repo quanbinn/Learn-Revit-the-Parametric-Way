@@ -10,7 +10,7 @@
 
 ## [网易云课堂 “Revit全过程建筑设计师 [完整视频]”](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
-# [我的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
+## [我的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
