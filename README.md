@@ -1,14 +1,14 @@
 # Revit全过程建筑设计师
 
-《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。**课程qq群：132407515 （BIM设计框架Uuarch）。**
+《 Revit全过程建筑设计师: 掌握参数的核心用法 》 是一本开源的教程。
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
 -  购买链接： [京东](https://item.jd.com/12015975.html) |  [当当](http://product.dangdang.com/24146790.html) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
 
-## [网易云课堂 “Revit全过程建筑设计师 [免费视频]”](http://study.163.com/course/courseMain.htm?courseId=1443006)
+## 网易云课堂 － Revit全过程建筑设计师 [免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
-## [网易云课堂 “Revit全过程建筑设计师 [完整视频]”](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
+## [知乎Live － BIM 全过程建筑设计师速成](https://www.zhihu.com/lives/798182096098197504)
 
 ## [我的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
 
