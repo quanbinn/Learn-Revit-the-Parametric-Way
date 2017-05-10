@@ -4,11 +4,9 @@
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
--  购买链接： [京东](https://item.jd.com/12015975.html) |  [当当](http://product.dangdang.com/24146790.html) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG)
+-  购买链接： [当当](http://product.dangdang.com/24146790.html) | [京东](https://item.jd.com/12015975.html) | [淘宝](https://s.taobao.com/search?q=Revit%E5%85%A8%E8%BF%87%E7%A8%8B%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E5%B8%88&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170510&ie=utf8) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG) 
 
 ## 网易云课堂 － Revit全过程建筑设计师 [免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
-
-## [知乎Live － BIM 全过程建筑设计师速成](https://www.zhihu.com/lives/798182096098197504)
 
 ## [我的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
 
