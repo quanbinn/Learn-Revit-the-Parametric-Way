@@ -6,9 +6,15 @@
 
 -  购买链接： [当当](http://product.dangdang.com/24146790.html) | [京东](https://item.jd.com/12015975.html) | [淘宝](https://s.taobao.com/search?q=Revit%E5%85%A8%E8%BF%87%E7%A8%8B%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E5%B8%88&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170510&ie=utf8) | [亚马逊](https://www.amazon.cn/dp/B01MXRHKVG) 
 
-## 网易云课堂 － Revit全过程建筑设计师 [免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
+## [书籍免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [书籍完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
-## [我的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
+## 网易云课堂系列课程 - [BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
+
+<a href="http://study.163.com/series/1001262001.htm"><img src="/images/网易云课堂系列课程.png" width="400"></a>
+
+## 知乎系列Live - [BIM全过程建筑设计师](https://www.zhihu.com/lives/users/07ac311b76fccb8247159979c0d5d118)
+
+## [其他的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
