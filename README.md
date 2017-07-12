@@ -10,7 +10,7 @@
 
 ## 网易云课堂系列课程 - [BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
 
-<a href="http://study.163.com/series/1001262001.htm"><img src="/images/网易云课堂系列课程.png" width="400"></a>
+<a href="http://study.163.com/series/1001262001.htm"><img src="/images/网易云课堂系列课程.png" height="400"></a>
 
 ## 知乎系列Live - [BIM全过程建筑设计师](https://www.zhihu.com/lives/users/07ac311b76fccb8247159979c0d5d118)
 
