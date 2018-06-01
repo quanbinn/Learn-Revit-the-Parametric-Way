@@ -203,7 +203,7 @@ Uuarch设计框架已经应用于建筑设计的**几乎所有相关领域**。�
 
 <a href="http://study.163.com/course/courseMain.htm?courseId=1220010"><img src="/images/Revit全过程参数的建筑设计师速成/基于Revit的Uuarch设计框架.jpg" width="400"></a>
 
-[uuarch设计框架下载地址](http://pan.baidu.com/s/1sly69Ed)
+[uuarch设计框架下载地址](https://pan.baidu.com/s/1yGcSy0PVDpEWHGr1QCHXbA)
 
 课程2：[Revit全过程建筑设计师](http://study.163.com/course/courseMain.htm?courseId=1443006)
 
