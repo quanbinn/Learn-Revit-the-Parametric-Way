@@ -25,7 +25,7 @@
 
 关于Uuarch框架的相关资源：
 
-- [Uuarch设计框架下载](http://pan.baidu.com/s/1sly69Ed)
+- [Uuarch设计框架下载](https://pan.baidu.com/s/1yGcSy0PVDpEWHGr1QCHXbA)
 - 网络免费学习课程：[基于Revit的Uuarch设计框架](http://study.163.com/course/courseMain.htm?courseId=1220010)
 
 ![](/images/使用Uuarch设计框架做建筑相关设计/基于Revit的Uuarch设计框架.jpg)
