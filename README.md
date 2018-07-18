@@ -6,7 +6,7 @@
 
 -  购买链接： [当当](http://product.dangdang.com/24146790.html) 
 
-## [书籍免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [书籍完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail) | 网易云课堂系列课程 - [BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
+## [书籍免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [书籍完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail) | [网易云课堂系列课程 - BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
