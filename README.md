@@ -4,17 +4,13 @@
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
--  购买链接： [京东](https://item.jd.com/12015975.html) 
+-  购买链接： [当当](http://product.dangdang.com/24146790.html) 
 
 ## [书籍免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [书籍完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail)
 
 ## 网易云课堂系列课程 - [BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
 
 <a href="http://study.163.com/series/1001262001.htm"><img src="/images/网易云课堂系列课程.jpg" weight="400"></a>
-
-## 知乎系列Live - [BIM全过程建筑设计师](https://www.zhihu.com/lives/users/07ac311b76fccb8247159979c0d5d118)
-
-## [其他的网络公开课汇总](/chapters/章y-附录/我的网络公开课汇总.md)
 
 ## 学习前的准备
 - **[重要：首先下载练习文件](/chapters/章0-学习前的准备/00-重要：首先下载练习文件.md)**
