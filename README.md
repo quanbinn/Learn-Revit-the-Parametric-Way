@@ -1,6 +1,6 @@
-# BIM全流程正向建筑设计
+# BIM全流程正向设计实践
 
-《BIM全流程正向建筑设计: 掌握参数的核心用法》是一本交互式教程。
+《BIM全流程正向设计实践: 掌握参数的核心用法》是一本交互式教程。
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
