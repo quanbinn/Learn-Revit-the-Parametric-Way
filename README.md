@@ -4,6 +4,8 @@
 
 <a href="http://study.163.com/course/introduction/1165006.htm#/courseDetail"><img src="/images/封面.jpg" width="400"></a>
 
+## [书籍免费视频](http://study.163.com/course/courseMain.htm?courseId=1443006) | [书籍完整视频](http://study.163.com/course/introduction/1165006.htm#/courseDetail) | [网易云课堂系列课程 - BIM全过程建筑设计师](http://study.163.com/series/1001262001.htm)
+
 -  购买链接： [淘宝](https://s.taobao.com/search?q=Revit%E5%85%A8%E8%BF%87%E7%A8%8B%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1%E5%B8%88&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20190416&ie=utf8) 
 
 ## 学习前的准备
